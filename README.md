@@ -1,0 +1,2 @@
+# wicsHackathon
+This code was a prototype to a project called Good Neighbor developed at the WiCS 2019 Hackathon by my team and I. Good Neighbor uses the google maps API to collects input from users around Portland, Oregon reporting pot holes, trash, and other public issues which are then stored into a list that logs the inputs into cases to streamline organizations' and public departments' ability to address these problems.  
